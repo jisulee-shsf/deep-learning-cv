@@ -4,31 +4,31 @@
 - 첨부된 파일 내의 모든 코드는 직접 실습하여 작성했으며, 학습 진도에 맞춘 세부 contents는 하기와 같습니다.  
 ####
 ## Contents
-#### ► [1. Selective search / IoU(Intersection over Union)]  
+#### ► [01_dl_cv_selective_search_n_iou]  
 - 01_dl_cv_selective_search_220715  
 - 02_dl_cv_iou_220716  
 ####
-#### ► [2. OpenCV processing]  
+#### ► [02_dl_cv_opencv_processing]  
 - 01_dl_cv_opencv_image_processing_220718  
 - 02_dl_cv_opencv_video_processing_220718  
 ####
-#### ► [3. Faster R-CNN(Region-based Convolutional Neural Networks) inference]  
+#### ► [03_dl_cv_faster_rcnn_inference]  
 - 01_dl_cv_faster_rcnn_image_inference_220720  
 - 02_dl_cv_faster_rcnn_video_inference_220720  
 ####
-#### ► [4. SSD(SIngle Shot Multibox Detector) inference]  
+#### ► [04_dl_cv_ssd_inference]  
 - 01_dl_cv_ssd_image_inference_220723  
 - 02_dl_cv_ssd_video_inference_220723  
 ####
-#### ► [5. YOLO(You Only Look Once) inference]  
+#### ► [05_dl_cv_yolo_inference]  
 - 01_dl_cv_yolov3_image_inference_220724  
 - 02_dl_cv_yolov3_tiny_image_inference_220724  
 ####
-#### ► [6. Instance segmentation]  
+#### ► [06_dl_cv_Instance_segmentation]  
 - 01_dl_cv_coco_api_220725  
 - 02_dl_cv_polygons_n_masks_220725  
 ####
-#### ► [7. Mask R-CNN inference]  
+#### ► [07_dl_cv_mask_rcnn_inference]  
 - 01_dl_cv_mask_rcnn_inference_practice_v1_220726  
 - 02_dl_cv_mask_rcnn_image_inference_v2_220726
 - 03_dl_cv_mask_rcnn_video_inference_220726  
