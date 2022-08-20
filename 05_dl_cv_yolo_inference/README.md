@@ -1,5 +1,5 @@
 ####
-## YOLO inference
+## YOLO(You Only Look Once) inference
 - YOLOv3 & YOLOv3-tiny 모델의 image inference 속도 및 성능 비교 실습
 - Darknet 사이트에서 pretrained된 모델을 다운로드한 뒤, OpenCV로 inference 모델을 생성해 object detection 수행 실습  
 - 3개의 scale output layer에서 detect된 정보를 추출해 NMS(Non-Maximum Suppression)로 최종 결과 filtering 진행  
