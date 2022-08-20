@@ -1,5 +1,5 @@
 ####
-## Faster R-CNN inference  
+## Faster R-CNN(Region-based Convolutional Neural Networks) inference  
 - two-stage detector의 대표 모델인 Faster R-CNN 실습  
 - TensorFlow에서 pretrained된 모델 파일을 OpenCV로 로드해 object detection 수행 실습 
 ####
