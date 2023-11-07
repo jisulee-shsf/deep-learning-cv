@@ -1,5 +1,5 @@
 ####
-## Mask R-CNN(Region-based Convolutional Neural Networks) inference  
+## 📌 Mask R-CNN(Region-based Convolutional Neural Networks) inference  
 - Mask R-CNN 모델을 활용해 object detection & instance segmentation 수행을 통한 다양한 시각화 실습 진행  
 ####
 #### ► [01_dl_cv_mask_rcnn_inference_practice_v1_220726]  
