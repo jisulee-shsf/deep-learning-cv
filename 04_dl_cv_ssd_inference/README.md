@@ -1,5 +1,5 @@
 ####
-## SSD(SIngle Shot Multibox Detector) inference
+## 📌 SSD(SIngle Shot Multibox Detector) inference
 - one-stage detector의 대표 모델인 SSD 실습   
 - TensorFlow에서 pretrained된 모델 파일을 OpenCV로 로드해 object detection 수행 실습 
 ####
