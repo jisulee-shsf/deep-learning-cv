@@ -1,5 +1,5 @@
 ####
-## Selective search & IoU(Intersection over Union)  
+## 📌 Selective search & IoU(Intersection over Union)  
 #### ► [01_dl_cv_selective_search_220715]  
 - region proposal의 대표적인 기법인 selective search 알고리즘 실습  
 - selective search로 추출된 regions 내 rect(x, y, w, h) & size(object size)의 이해와 출력 실습  
