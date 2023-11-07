@@ -1,5 +1,5 @@
 ####
-## OpenCV processing
+## 📌 OpenCV processing
 #### ► [01_dl_cv_opencv_image_processing_220718]
 - OpenCV와 python image 라이브러리(PIL, skimage)의 차이 이해와 image 처리 실습  
 - PIL : open(), ImageFile 객체 생성 / skimage : imread(), RGB 형태 numpy 배열 반환  
