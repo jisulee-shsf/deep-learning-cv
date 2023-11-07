@@ -1,5 +1,5 @@
 ####
-## Instance segmentation  
+## 📌 Instance segmentation  
 - COCO(Common Objects in Context) dataset과 API를 활용한 instance segmentation 시각화 수행 실습
 - polygon & mask annotation 정보를 활용해 instance segmentation 시각화 수행 실습
 ####
